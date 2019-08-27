@@ -67,8 +67,9 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Accounting.cs" />
     <Compile Include="Budget.cs" />
-    <Compile Include="BudgetCalculat.cs" />
+    <Compile Include="DateTimeExtension.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
